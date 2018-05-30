@@ -5,8 +5,7 @@
     "provinceName": "北京市",
     "provinceShortName": "北京",
     "provinceSort": 1,
-    "remarks": "直辖市",
-    "status": 1
+    "remarks": "直辖市"
   },
   {
     "provinceId": 2,
@@ -14,8 +13,7 @@
     "provinceName": "天津市",
     "provinceShortName": "天津",
     "provinceSort": 2,
-    "remarks": "直辖市",
-    "status": 1
+    "remarks": "直辖市"
   },
   {
     "provinceId": 3,
@@ -23,8 +21,7 @@
     "provinceName": "河北省",
     "provinceShortName": "河北",
     "provinceSort": 5,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 4,
@@ -32,8 +29,7 @@
     "provinceName": "山西省",
     "provinceShortName": "山西",
     "provinceSort": 6,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 5,
@@ -41,8 +37,7 @@
     "provinceName": "内蒙古自治区",
     "provinceShortName": "内蒙古",
     "provinceSort": 32,
-    "remarks": "自治区",
-    "status": 1
+    "remarks": "自治区"
   },
   {
     "provinceId": 6,
@@ -50,8 +45,7 @@
     "provinceName": "辽宁省",
     "provinceShortName": "辽宁",
     "provinceSort": 8,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 7,
@@ -59,8 +53,7 @@
     "provinceName": "吉林省",
     "provinceShortName": "吉林",
     "provinceSort": 9,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 8,
@@ -68,8 +61,7 @@
     "provinceName": "黑龙江省",
     "provinceShortName": "黑龙江",
     "provinceSort": 10,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 9,
@@ -77,8 +69,7 @@
     "provinceName": "上海市",
     "provinceShortName": "上海",
     "provinceSort": 3,
-    "remarks": "直辖市",
-    "status": 1
+    "remarks": "直辖市"
   },
   {
     "provinceId": 10,
@@ -86,8 +77,7 @@
     "provinceName": "江苏省",
     "provinceShortName": "江苏",
     "provinceSort": 11,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 11,
@@ -95,8 +85,7 @@
     "provinceName": "浙江省",
     "provinceShortName": "浙江",
     "provinceSort": 12,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 12,
@@ -104,8 +93,7 @@
     "provinceName": "安徽省",
     "provinceShortName": "安徽",
     "provinceSort": 13,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 13,
@@ -113,8 +101,7 @@
     "provinceName": "福建省",
     "provinceShortName": "福建",
     "provinceSort": 14,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 14,
@@ -122,8 +109,7 @@
     "provinceName": "江西省",
     "provinceShortName": "江西",
     "provinceSort": 15,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 15,
@@ -131,8 +117,7 @@
     "provinceName": "山东省",
     "provinceShortName": "山东",
     "provinceSort": 16,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 16,
@@ -140,8 +125,7 @@
     "provinceName": "河南省",
     "provinceShortName": "河南",
     "provinceSort": 17,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 17,
@@ -149,8 +133,7 @@
     "provinceName": "湖北省",
     "provinceShortName": "湖北",
     "provinceSort": 18,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 18,
@@ -158,8 +141,7 @@
     "provinceName": "湖南省",
     "provinceShortName": "湖南",
     "provinceSort": 19,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 19,
@@ -167,8 +149,7 @@
     "provinceName": "广东省",
     "provinceShortName": "广东",
     "provinceSort": 20,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 20,
@@ -176,8 +157,7 @@
     "provinceName": "海南省",
     "provinceShortName": "海南",
     "provinceSort": 24,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 21,
@@ -185,8 +165,7 @@
     "provinceName": "广西壮族自治区",
     "provinceShortName": "广西",
     "provinceSort": 28,
-    "remarks": "自治区",
-    "status": 1
+    "remarks": "自治区"
   },
   {
     "provinceId": 22,
@@ -194,8 +173,7 @@
     "provinceName": "甘肃省",
     "provinceShortName": "甘肃",
     "provinceSort": 21,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 23,
@@ -203,8 +181,7 @@
     "provinceName": "陕西省",
     "provinceShortName": "陕西",
     "provinceSort": 27,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 24,
@@ -212,8 +189,7 @@
     "provinceName": "新疆维吾尔自治区",
     "provinceShortName": "新疆",
     "provinceSort": 31,
-    "remarks": "自治区",
-    "status": 1
+    "remarks": "自治区"
   },
   {
     "provinceId": 25,
@@ -221,8 +197,7 @@
     "provinceName": "青海省",
     "provinceShortName": "青海",
     "provinceSort": 26,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 26,
@@ -230,8 +205,7 @@
     "provinceName": "宁夏回族自治区",
     "provinceShortName": "宁夏",
     "provinceSort": 30,
-    "remarks": "自治区",
-    "status": 1
+    "remarks": "自治区"
   },
   {
     "provinceId": 27,
@@ -239,8 +213,7 @@
     "provinceName": "重庆市",
     "provinceShortName": "重庆",
     "provinceSort": 4,
-    "remarks": "直辖市",
-    "status": 1
+    "remarks": "直辖市"
   },
   {
     "provinceId": 28,
@@ -248,8 +221,7 @@
     "provinceName": "四川省",
     "provinceShortName": "四川",
     "provinceSort": 22,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 29,
@@ -257,8 +229,7 @@
     "provinceName": "贵州省",
     "provinceShortName": "贵州",
     "provinceSort": 23,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 30,
@@ -266,8 +237,7 @@
     "provinceName": "云南省",
     "provinceShortName": "云南",
     "provinceSort": 25,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 31,
@@ -275,8 +245,7 @@
     "provinceName": "西藏自治区",
     "provinceShortName": "西藏",
     "provinceSort": 29,
-    "remarks": "自治区",
-    "status": 1
+    "remarks": "自治区"
   },
   {
     "provinceId": 32,
@@ -284,8 +253,7 @@
     "provinceName": "台湾省",
     "provinceShortName": "台湾",
     "provinceSort": 7,
-    "remarks": "省份",
-    "status": 1
+    "remarks": "省份"
   },
   {
     "provinceId": 33,
@@ -293,8 +261,7 @@
     "provinceName": "澳门特别行政区",
     "provinceShortName": "澳门",
     "provinceSort": 33,
-    "remarks": "特别行政区",
-    "status": 1
+    "remarks": "特别行政区"
   },
   {
     "provinceId": 34,
@@ -302,7 +269,6 @@
     "provinceName": "香港特别行政区",
     "provinceShortName": "香港",
     "provinceSort": 34,
-    "remarks": "特别行政区",
-    "status": 1
+    "remarks": "特别行政区"
   }
 ]
