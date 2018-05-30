@@ -1,1 +1,308 @@
-
+[
+  {
+    "provinceId": 1,
+    "provinceIndex": "B",
+    "provinceName": "北京市",
+    "provinceShortName": "北京",
+    "provinceSort": 1,
+    "remarks": "直辖市",
+    "status": 1
+  },
+  {
+    "provinceId": 2,
+    "provinceIndex": "T",
+    "provinceName": "天津市",
+    "provinceShortName": "天津",
+    "provinceSort": 2,
+    "remarks": "直辖市",
+    "status": 1
+  },
+  {
+    "provinceId": 3,
+    "provinceIndex": "H",
+    "provinceName": "河北省",
+    "provinceShortName": "河北",
+    "provinceSort": 5,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 4,
+    "provinceIndex": "S",
+    "provinceName": "山西省",
+    "provinceShortName": "山西",
+    "provinceSort": 6,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 5,
+    "provinceIndex": "N",
+    "provinceName": "内蒙古自治区",
+    "provinceShortName": "内蒙古",
+    "provinceSort": 32,
+    "remarks": "自治区",
+    "status": 1
+  },
+  {
+    "provinceId": 6,
+    "provinceIndex": "L",
+    "provinceName": "辽宁省",
+    "provinceShortName": "辽宁",
+    "provinceSort": 8,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 7,
+    "provinceIndex": "J",
+    "provinceName": "吉林省",
+    "provinceShortName": "吉林",
+    "provinceSort": 9,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 8,
+    "provinceIndex": "H",
+    "provinceName": "黑龙江省",
+    "provinceShortName": "黑龙江",
+    "provinceSort": 10,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 9,
+    "provinceIndex": "S",
+    "provinceName": "上海市",
+    "provinceShortName": "上海",
+    "provinceSort": 3,
+    "remarks": "直辖市",
+    "status": 1
+  },
+  {
+    "provinceId": 10,
+    "provinceIndex": "J",
+    "provinceName": "江苏省",
+    "provinceShortName": "江苏",
+    "provinceSort": 11,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 11,
+    "provinceIndex": "Z",
+    "provinceName": "浙江省",
+    "provinceShortName": "浙江",
+    "provinceSort": 12,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 12,
+    "provinceIndex": "A",
+    "provinceName": "安徽省",
+    "provinceShortName": "安徽",
+    "provinceSort": 13,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 13,
+    "provinceIndex": "F",
+    "provinceName": "福建省",
+    "provinceShortName": "福建",
+    "provinceSort": 14,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 14,
+    "provinceIndex": "J",
+    "provinceName": "江西省",
+    "provinceShortName": "江西",
+    "provinceSort": 15,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 15,
+    "provinceIndex": "S",
+    "provinceName": "山东省",
+    "provinceShortName": "山东",
+    "provinceSort": 16,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 16,
+    "provinceIndex": "H",
+    "provinceName": "河南省",
+    "provinceShortName": "河南",
+    "provinceSort": 17,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 17,
+    "provinceIndex": "H",
+    "provinceName": "湖北省",
+    "provinceShortName": "湖北",
+    "provinceSort": 18,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 18,
+    "provinceIndex": "H",
+    "provinceName": "湖南省",
+    "provinceShortName": "湖南",
+    "provinceSort": 19,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 19,
+    "provinceIndex": "G",
+    "provinceName": "广东省",
+    "provinceShortName": "广东",
+    "provinceSort": 20,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 20,
+    "provinceIndex": "H",
+    "provinceName": "海南省",
+    "provinceShortName": "海南",
+    "provinceSort": 24,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 21,
+    "provinceIndex": "G",
+    "provinceName": "广西壮族自治区",
+    "provinceShortName": "广西",
+    "provinceSort": 28,
+    "remarks": "自治区",
+    "status": 1
+  },
+  {
+    "provinceId": 22,
+    "provinceIndex": "G",
+    "provinceName": "甘肃省",
+    "provinceShortName": "甘肃",
+    "provinceSort": 21,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 23,
+    "provinceIndex": "S",
+    "provinceName": "陕西省",
+    "provinceShortName": "陕西",
+    "provinceSort": 27,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 24,
+    "provinceIndex": "X",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceShortName": "新疆",
+    "provinceSort": 31,
+    "remarks": "自治区",
+    "status": 1
+  },
+  {
+    "provinceId": 25,
+    "provinceIndex": "Q",
+    "provinceName": "青海省",
+    "provinceShortName": "青海",
+    "provinceSort": 26,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 26,
+    "provinceIndex": "N",
+    "provinceName": "宁夏回族自治区",
+    "provinceShortName": "宁夏",
+    "provinceSort": 30,
+    "remarks": "自治区",
+    "status": 1
+  },
+  {
+    "provinceId": 27,
+    "provinceIndex": "C",
+    "provinceName": "重庆市",
+    "provinceShortName": "重庆",
+    "provinceSort": 4,
+    "remarks": "直辖市",
+    "status": 1
+  },
+  {
+    "provinceId": 28,
+    "provinceIndex": "S",
+    "provinceName": "四川省",
+    "provinceShortName": "四川",
+    "provinceSort": 22,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 29,
+    "provinceIndex": "G",
+    "provinceName": "贵州省",
+    "provinceShortName": "贵州",
+    "provinceSort": 23,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 30,
+    "provinceIndex": "Y",
+    "provinceName": "云南省",
+    "provinceShortName": "云南",
+    "provinceSort": 25,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 31,
+    "provinceIndex": "X",
+    "provinceName": "西藏自治区",
+    "provinceShortName": "西藏",
+    "provinceSort": 29,
+    "remarks": "自治区",
+    "status": 1
+  },
+  {
+    "provinceId": 32,
+    "provinceIndex": "T",
+    "provinceName": "台湾省",
+    "provinceShortName": "台湾",
+    "provinceSort": 7,
+    "remarks": "省份",
+    "status": 1
+  },
+  {
+    "provinceId": 33,
+    "provinceIndex": "A",
+    "provinceName": "澳门特别行政区",
+    "provinceShortName": "澳门",
+    "provinceSort": 33,
+    "remarks": "特别行政区",
+    "status": 1
+  },
+  {
+    "provinceId": 34,
+    "provinceIndex": "X",
+    "provinceName": "香港特别行政区",
+    "provinceShortName": "香港",
+    "provinceSort": 34,
+    "remarks": "特别行政区",
+    "status": 1
+  }
+]
