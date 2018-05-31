@@ -56,7 +56,7 @@ Rim项目对REST接口的请求参数做了统一的校验，在编写业务代�
 
 ```
 * 注意：
-1、请求体前需要@Valid注解
+1、请求体前需加上@Valid注解
 2、入参不能带Errors参数
 
 ## Http网络请求规范
@@ -89,10 +89,9 @@ Rim项目中引入了B2b库和Rim库两个数据源，主要是通过区分mappe
         db_b2b库中的存放在resource/mapper/b2b/
    
    2、*Mapper.java文件存放位置
-           db_rim库中的存放在dal/mapper/rim/
-           db_b2b库中的存放在dal/mapper/b2b/
+        db_rim库中的存放在dal/mapper/rim/
+        db_b2b库中的存放在dal/mapper/b2b/
 ```
 * 注意：如需使用generator来生成需要修改MyBatisGenConst中的DB_NAME的值,如图：
 ![http://ohegl1i2i.bkt.clouddn.com/test.png](http://ohegl1i2i.bkt.clouddn.com/test.png)
-
 
